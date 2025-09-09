@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feriel080&show_icons=true&theme=radical)
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Feriel080&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Feriel080&theme=radical&hide_border=true)
 
 ### 💡 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feriel080&layout=compact&theme=radical)
