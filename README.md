@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Feriel080&theme=tokyonight)](https://git.io/streak-stats)
 
 ### 💡 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feriel080&layout=compact&theme=tokyonight
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feriel080&layout=compact&theme=tokyonight)
 
 ### 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
